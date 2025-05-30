@@ -1,6 +1,6 @@
   <h3 id="hi-there--im-danushka">Hi there 👋 I’m <a href="https://github.com/TruongNguyenVo/">Nguyen!</a></h3>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
-<h2 id="im-a-associate-software-engineer-at-acentura">I’m a Associate Software Engineer at Acentura</h2>
+<h2 id="im-a-associate-software-engineer-at-acentura">About me</h2>
 <ul>
 <li>👨‍💻 I’m currently studying Information System in <a href="https://ctuet.edu.vn/">Can Tho University of Technology</a>.</li>
 <li>📚 Learning everything about Frontend, Backend and Data technologies 😅</li>
@@ -8,29 +8,46 @@
 </ul>
 <hr>
 <h5 id="languages-i-use">Languages I use</h5>
-<p><img src="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=c" alt="C">
-<img src="https://img.shields.io/badge/-C++-000000?style=flat&amp;logo=c%2B%2B" alt="C++">
-<img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=html5" alt="HTML5">
-<img src="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=java" alt="Java">
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" alt="JavaScript">
-<img src="https://img.shields.io/badge/-Python-000000?style=flat&amp;logo=python" alt="Python">
-<img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&amp;logo=typescript" alt="TypeScript">
-<img src="https://img.shields.io/badge/-SQL-000000?style=flat&amp;logo=postgresql" alt="SQL"></p>
-<h5 id="some-of-the-technologies-i-have-worked-with">Some of the technologies I have worked with</h5>
-<p><img src="https://img.shields.io/badge/-Git-222222?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git">
-<img src="https://img.shields.io/badge/-GitHub-222222?style=flat&amp;logo=github&amp;logoColor=181717" alt="GitHub">
-<img src="https://img.shields.io/badge/-jQuery-222222?style=flat&amp;logo=jQuery&amp;logoColor=0769AD" alt="jQuery">
-<img src="https://img.shields.io/badge/-Linux-222222?style=flat&amp;logo=linux&amp;logoColor=FCC624" alt="Linux">
-<img src="https://img.shields.io/badge/-Node.js-222222?style=flat&amp;logo=node.js&amp;logoColor=339933" alt="Node.js">
-<img src="https://img.shields.io/badge/-React-222222?style=flat&amp;logo=React&amp;logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/-Spring-222222?style=flat&amp;logo=spring&amp;logoColor=6DB33F" alt="Java Spring">
-<img src="https://img.shields.io/badge/Firebase-222222?style=flat-square&amp;logo=firebase" alt="Firebase">
-<img src="https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&amp;logo=microsoft-azure" alt="AzureCloud">
-<img src="https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&amp;logo=Amazon-Web-Service" alt="Amazon Web Services">
-<img src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&amp;logo=google-cloud" alt="Google Cloud">
-<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker" alt="Docker">
-<img src="https://img.shields.io/badge/-Heroku-222222?style=flat-square&amp;logo=heroku" alt="Heroku">
-<br></p>
+<p>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=mysql&logoColor=white)
+<h5 id="some-of-the-technologies-i-have-worked-with">Some of the technologies I have worked with</h5><p>
+  
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)</p>
+<h5 id="some-of-the-technologies-i-have-worked-with">Tooks I use</h5>
+<p>
+  
+![Git](https://img.shields.io/badge/Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-222222?style=flat&logo=github&logoColor=181717)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat&logo=firebase&logoColor=FFCA28)
+![Docker](https://img.shields.io/badge/Docker-222222?style=flat&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+</p>
 <hr>
-<p>Credit: <a href="https://github.com/Danushka2">Danushka2</a></p>
-<p>Last edited on: 30/06/2022</p> 
+
+<h2 id="im-a-associate-software-engineer-at-acentura">Contact with me</h2>
+<p>
+  
+- Gmail: truongnguyenvo.work@gmail.com  
+  
+- GitHub: https://github.com/TruongNguyenVo
+
+- LinkedIn: https://www.linkedin.com/in/nguyenvo0407 
+</p>
+
+<hr>
