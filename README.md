@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 <h2 id="im-a-associate-software-engineer-at-acentura">I’m a Associate Software Engineer at Acentura</h2>
 <ul>
-<li>👨‍💻 I’m currently working on machine learning and data mining projects using python.</li>
+<li>👨‍💻 I’m currently studying Information System in <a href="https://ctuet.edu.vn/">Can Tho University of Technology</a>.</li>
 <li>📚 Learning everything about Frontend, Backend and Data technologies 😅</li>
 <li>💪🏼 Turning ideas into code</li>
 </ul>
