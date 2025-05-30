@@ -50,8 +50,4 @@
 - LinkedIn: https://www.linkedin.com/in/nguyenvo0407 
 </p>
 
-<img src="https://raw.githubusercontent.com/TruongNguyenVo/TruongNguyenVo/output/snake.svg" alt="Snake animation" />
-
-###
-
 <hr>
