@@ -1,4 +1,4 @@
-  <h3 id="hi-there--im-danushka">Hi there 👋 I’m <a href="https://github.com/TruongNguyenVo/">Nguyen!</a></h3>
+<h3 id="hi-there--im-danushka">Hi there 👋 I’m <a href="https://github.com/TruongNguyenVo/">Nguyen!</a></h3>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 <h2 id="im-a-associate-software-engineer-at-acentura">About me</h2>
 <ul>
