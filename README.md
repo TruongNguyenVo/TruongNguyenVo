@@ -46,8 +46,6 @@
 - Gmail: truongnguyenvo.work@gmail.com  
   
 - GitHub: https://github.com/TruongNguyenVo
-
-- LinkedIn: https://www.linkedin.com/in/nguyenvo0407 
 </p>
 
 <hr>
